@@ -24,6 +24,8 @@ This project is built with the Astro framework.
 
 ### Code Style
 **Primary Toolchain:**
+- **Shell Environment:** This project is developed using the **`fish` shell**. All provided shell scripts and commands should be `fish`-compatible.
+
 - **Tool:** Biome
 - This single, high-performance tool replaces the previous stack (Prettier + ESLint) for all code quality checks.
 - All configuration is centralized in the root `biome.json` file.
